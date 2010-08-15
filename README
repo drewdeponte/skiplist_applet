@@ -1,0 +1,19 @@
+What is this?
+-------------
+This is a skip list applet which I wrote for an Algorithms class. It is
+designed to be a teaching tool to help people understand the concept of
+skip lists and how they work.
+
+How to install?
+---------------
+Installation of this is pretty simple. Just copy all of the class files
+to the directory on your webserver that you would like them to be
+available from. Then copy the skip_list_tool.html file to that directory
+as well. Then just provide a link on your website to the
+skip_list_tool.html file and all should be working. Note: The users of
+course will have to have a working java plugin setup in their browser of
+choice.
+
+Author
+------
+Andrew De Ponte <cyphactor@socal.rr.com>
